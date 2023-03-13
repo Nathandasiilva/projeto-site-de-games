@@ -1,9 +1,5 @@
 @charset "UTF-8";
 
-* {
-    margin: 0px;
-    padding: 0px;
-}
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@1,900&family=Sriracha&display=swap');
 
@@ -12,4 +8,24 @@
 @import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & família= PT+Sans &family= Roboto:ital,wght@1,300 & family= Sriracha & display=swap');
 
 
+:root {
 
+--cor0: #1D387A;
+--cor1: #87A8FB;
+--cor2: #3D71FA;
+--cor3: #42527A;
+--cor4: #305BC7;
+ 
+
+--fonte-padrao: Arial, verdana, helvetica, sans-serif;
+--fonte-destaque: 'Bebas Neue', cursive;
+--font-android: 'Android', cursive; 
+
+}
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
