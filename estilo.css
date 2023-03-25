@@ -28,3 +28,39 @@
     margin: 0px;
     padding: 0px;
 }
+
+body {
+    background-color: #87A8FB;
+}
+
+header {
+   background-color: rgba(0, 255, 255, 0.274);
+   min-height: 150px;
+   padding-top: 40px;
+
+}
+
+nav {   
+    text-align: center;
+    margin-top: 20px;
+
+    
+}
+
+nav > a {
+    color: white;
+    font: ;
+    font-size: 1.3em;
+    text-decoration: none;
+    padding: 30px;
+    border-radius: 30px;
+    font-weight: bold;
+    transition-duration: .3s;
+
+}
+
+nav > a:hover {
+    background-color: #87A8FB;
+    color: #1D387A;
+    text-decoration: underline;
+}
